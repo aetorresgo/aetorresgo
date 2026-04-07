@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Aaron 👋
+Data Analyst  
+📊 Master's in Analytics (Graduating May 2026)   
 
+🔭 I’m currently working on:
+- Data analysis projects (Python, SQL)
+
+💻 Tech Stack:
+- Python (Pandas, NumPy)
+- SQL
+- Tableau / Power BI
+- Excel
 <!--
 **aetorresgo/aetorresgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
